@@ -1,0 +1,15 @@
+/home/apolM01-043/netCore/listas-C#-alumnos/bin/Debug/net7.0/listas-C#-alumnos
+/home/apolM01-043/netCore/listas-C#-alumnos/bin/Debug/net7.0/listas-C#-alumnos.deps.json
+/home/apolM01-043/netCore/listas-C#-alumnos/bin/Debug/net7.0/listas-C#-alumnos.runtimeconfig.json
+/home/apolM01-043/netCore/listas-C#-alumnos/bin/Debug/net7.0/listas-C#-alumnos.dll
+/home/apolM01-043/netCore/listas-C#-alumnos/bin/Debug/net7.0/listas-C#-alumnos.pdb
+/home/apolM01-043/netCore/listas-C#-alumnos/obj/Debug/net7.0/listas-C#-alumnos.csproj.AssemblyReference.cache
+/home/apolM01-043/netCore/listas-C#-alumnos/obj/Debug/net7.0/listas-C#-alumnos.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolM01-043/netCore/listas-C#-alumnos/obj/Debug/net7.0/listas-C#-alumnos.AssemblyInfoInputs.cache
+/home/apolM01-043/netCore/listas-C#-alumnos/obj/Debug/net7.0/listas-C#-alumnos.AssemblyInfo.cs
+/home/apolM01-043/netCore/listas-C#-alumnos/obj/Debug/net7.0/listas-C#-alumnos.csproj.CoreCompileInputs.cache
+/home/apolM01-043/netCore/listas-C#-alumnos/obj/Debug/net7.0/listas-C#-alumnos.dll
+/home/apolM01-043/netCore/listas-C#-alumnos/obj/Debug/net7.0/refint/listas-C#-alumnos.dll
+/home/apolM01-043/netCore/listas-C#-alumnos/obj/Debug/net7.0/listas-C#-alumnos.pdb
+/home/apolM01-043/netCore/listas-C#-alumnos/obj/Debug/net7.0/listas-C#-alumnos.genruntimeconfig.cache
+/home/apolM01-043/netCore/listas-C#-alumnos/obj/Debug/net7.0/ref/listas-C#-alumnos.dll
